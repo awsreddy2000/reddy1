@@ -2,7 +2,7 @@ class hello()
 {
            public static void main()
 	   {
-	       system.out.prientin ('hello frm dev1')
+	       system.out.prientin ('hello by modify')
 	    }
 }
 
